@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: white;
+}
+
+canvas {
+  display: block;
+}
+
+span {
+  color: darkgreen;
+ weight: bold;
+}
+
+.credit {
+  font-style: italic;
+}
