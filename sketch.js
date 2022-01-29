@@ -63,7 +63,7 @@ function draw() {
   circle(width / 4, height / 4, 2 * radius);
 
   stroke(0, 0, 255);
-  strokeWeight(6);
+  strokeWeight(12);
   point(p1.x, p1.y);
 
   stroke(0);
@@ -75,7 +75,7 @@ function draw() {
   circle((3 * width) / 4, (3 * height) / 4, 2 * radius);
 
   stroke(0, 0, 255);
-  strokeWeight(6);
+  strokeWeight(12);
   point(p2.x, p2.y);
 
   stroke(0);
